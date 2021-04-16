@@ -5,7 +5,7 @@ I have used tkinter as GUI, liniear regression model was used to train the model
 # Algotithm
 Linear Regression
 
-#DataSet 
-has 1000 stduents records 
+# DataSet 
+DataSet has 1000 stduents records 
 
 
